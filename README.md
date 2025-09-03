@@ -1,8 +1,13 @@
-👋 Hi, I’m Dires — an aspiring Software Engineer passionate about building scalable software and impactful products.  
-🎓 CS & Math student at Williams College (Class of 2028).  
-⚡ Interests: coding, problem-solving, soccer, biking, workouts, exploring entrepreneurship, reading about tech & finance, and learning new ways to apply algorithms to real-world challenges.  
-🤝 Open to collaborating on innovative projects, especially those that expand access to education and technology.  
-😅 Fun fact: My code runs on coffee… and sometimes it actually runs!  
+👋 Hi, I’m Dires — an aspiring Software Engineer who loves building scalable software, elegant algorithms, and impactful products worldwide.  
+
+🎓 I’m a Computer Science and Mathematics student at Williams College, Class of 2028, passionate about problem-solving and innovation.  
+
+⚡ My interests include coding, problem-solving, soccer, biking, workouts, entrepreneurship, technology, finance, and applying algorithms to practical challenges.  
+
+🤝 I’m eager to collaborate on innovative projects with a focus on accessibility, education, entrepreneurship, and transformative technologies.  
+
+😅 Fun fact: My code runs on coffee, occasional late-night brainstorming, and the occasional miracle — sometimes it works!  
+
 
 📫 Let’s Connect:
 - 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  

@@ -1,10 +1,10 @@
-👋 Hi, I’m Dires — an aspiring Software Engineer who loves building scalable software, elegant algorithms, and impactful products worldwide.  
+👋 Hi, I’m Dires — an aspiring Software Engineer -love building scalable software, elegant algorithms, and impactful products worldwide.  
 
-🎓 I’m a Computer Science and Mathematics student at Williams College, Class of 2028, passionate about problem-solving and innovation.  
+🎓 I’m a Computer Science & Mathematics student at Williams College ('2028), passionate about problem-solving and innovation.  
 
-⚡ My interests include coding, problem-solving, soccer, biking, workouts, entrepreneurship, technology, finance, and applying algorithms to practical challenges.  
+⚡ My interests include coding, problem-solving, biking, workouts, technology, and applying algorithms to practical challenges.  
 
-🤝 I’m eager to collaborate on innovative projects with a focus on accessibility, education, entrepreneurship, and transformative technologies.  
+🤝 I’m eager to collaborate on innovative projects with a focus on accessibility, entrepreneurship, and transformative technologies.  
 
 😅 Fun fact: My code runs on coffee, occasional late-night brainstorming, and the occasional miracle — sometimes it works!  
 

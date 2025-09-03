@@ -4,26 +4,26 @@
 💻 Passionate about building scalable software, elegant algorithms, and impactful products.
 🌍 Originally from Ethiopia, with a vision of combining tech + entrepreneurship to create meaningful change.
 
-## What I Do
+### What I Do
 
 * **Software Engineering Internships** – Experience in full-stack development (.NET Core, React.js), API design, and clean architecture.
 * **Projects** – From web/mobile apps to data structures & algorithms implementations in Java and Python.
 * **Problem Solving** – Active on platforms like LeetCode, honing algorithmic and coding interview skills.
 
-# Tech Stack
+### Tech Stack
 
 * **Languages:** Python, Java, JavaScript, C#, SQL
 * **Frameworks:** React.js, Node.js, .NET Core
 * **Tools:** Git, GitHub, VS Code, IntelliJ, Postman
 * **Concepts:** OOP, Data Structures & Algorithms, Clean Architecture, Game Theory in CS
 
-# Goals
+### Goals
 
 * Secure a **Software Engineering Internship** at a top tech company or trading firm.
 * Keep growing in **algorithms, system design, and finance-tech**.
 * Long-term: Build impactful startups bridging **tech & opportunity in Ethiopia**.
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  
 - 🌐 Website: (https://diresabatieneh.netlify.app)  

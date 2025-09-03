@@ -10,19 +10,14 @@
 * **Projects** – From web/mobile apps to data structures & algorithms implementations in Java and Python.
 * **Problem Solving** – Active on platforms like LeetCode, honing algorithmic and coding interview skills.
 
-## Tech Stack
+# Tech Stack
 
 * **Languages:** Python, Java, JavaScript, C#, SQL
 * **Frameworks:** React.js, Node.js, .NET Core
 * **Tools:** Git, GitHub, VS Code, IntelliJ, Postman
 * **Concepts:** OOP, Data Structures & Algorithms, Clean Architecture, Game Theory in CS
 
-## Featured Projects
-* 📚 **Book Exchange System (Java GUI + BST backend)** – A platform for students to exchange books.
-* 🍴 **FlavorQuest** – Restaurant discovery web app with optimized search features.
-* 🤖 **AI Chatbot** – React.js + Wit.AI powered intelligent assistant.
-
-## Goals
+# Goals
 
 * Secure a **Software Engineering Internship** at a top tech company or trading firm.
 * Keep growing in **algorithms, system design, and finance-tech**.
@@ -32,7 +27,7 @@
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  
 - 🌐 Website: (https://diresabatieneh.netlify.app)  
-- 📧 Email: diressabebe23@gmail.com / daa3@williams.edu  
+- 📧 Email: (diressabebe23@gmail.com / daa3@williams.edu)  
 - 📷 Instagram: (https://instagram.com/mik_dier_213_)  
 - ✉️ Always open to collaboration on interesting projects and research!  
 

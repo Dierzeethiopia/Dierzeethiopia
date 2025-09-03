@@ -4,25 +4,25 @@
 💻 Passionate about building scalable software, elegant algorithms, and impactful products.
 🌍 Originally from Ethiopia, with a vision of combining tech + entrepreneurship to create meaningful change.
 
-## 🚀 What I Do
+## What I Do
 
 * **Software Engineering Internships** – Experience in full-stack development (.NET Core, React.js), API design, and clean architecture.
 * **Projects** – From web/mobile apps to data structures & algorithms implementations in Java and Python.
 * **Problem Solving** – Active on platforms like LeetCode, honing algorithmic and coding interview skills.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Languages:** Python, Java, JavaScript, C#, SQL
 * **Frameworks:** React.js, Node.js, .NET Core
 * **Tools:** Git, GitHub, VS Code, IntelliJ, Postman
 * **Concepts:** OOP, Data Structures & Algorithms, Clean Architecture, Game Theory in CS
 
-## 🌟 Featured Projects
+## Featured Projects
 * 📚 **Book Exchange System (Java GUI + BST backend)** – A platform for students to exchange books.
 * 🍴 **FlavorQuest** – Restaurant discovery web app with optimized search features.
 * 🤖 **AI Chatbot** – React.js + Wit.AI powered intelligent assistant.
 
-## 🎯 Goals
+## Goals
 
 * Secure a **Software Engineering Internship** at a top tech company or trading firm.
 * Keep growing in **algorithms, system design, and finance-tech**.

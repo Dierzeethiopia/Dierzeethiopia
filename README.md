@@ -32,7 +32,7 @@
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  
 - 🌐 Website: (https://diresabatieneh.netlify.app)  
-- 📧 Email: [diressabebe23@gmail.com](mailto:your.email@domain.com)  
+- 📧 Email: [diressabebe23@gmail.com](daa3@williams.edu)  
 - 📷 Instagram: (https://instagram.com/mik_dier_213_)  
 - ✉️ Always open to collaboration on interesting projects and research!  
 

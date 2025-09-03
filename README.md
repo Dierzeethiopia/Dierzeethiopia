@@ -30,10 +30,10 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dires-a-abatieneh/)  
-- 🌐 [Portfolio/Website](https://diresabatieneh.netlify.app)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  
+- 🌐 Website: (https://diresabatieneh.netlify.app)  
 - 📧 Email: [diressabebe23@gmail.com](mailto:your.email@domain.com)  
-- 📷 [Instagram](https://instagram.com/mik_dier_213_)  
+- 📷 Instagram: (https://instagram.com/mik_dier_213_)  
 - ✉️ Always open to collaboration on interesting projects and research!  
 
 ---

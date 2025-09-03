@@ -1,8 +1,5 @@
-# 👋 Hi, I’m Dires!
-
-🎓 **Computer Science & Mathematics Student @ Williams College (Class of 2028)**
-💻 Passionate about building scalable software, elegant algorithms, and impactful products.
-🌍 With a vision of combining tech + entrepreneurship to create meaningful change.
+# 👋 Hi, I’m Dires # 
+A passionate student dedicated to building **scalable software**, crafting **elegant algorithms**, and creating **impactful products** — with a vision to combine **technology and entrepreneurship** to drive meaningful change.  
 
 ### What I Do
 

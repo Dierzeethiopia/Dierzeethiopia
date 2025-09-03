@@ -2,7 +2,7 @@
 
 🎓 **Computer Science & Mathematics Student @ Williams College (Class of 2028)**
 💻 Passionate about building scalable software, elegant algorithms, and impactful products.
-🌍 Originally from Ethiopia, with a vision of combining tech + entrepreneurship to create meaningful change.
+🌍 With a vision of combining tech + entrepreneurship to create meaningful change.
 
 ### What I Do
 

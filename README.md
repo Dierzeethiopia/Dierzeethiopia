@@ -7,7 +7,7 @@
 
 📫 Let’s Connect:
 - 💼 LinkedIn: (https://www.linkedin.com/in/dires-a-abatieneh/)  
-- 🌐 Website: (https://diresabatieneh.netlify.app)  
-- 📧 Email: (diressabebe23@gmail.com / daa3@williams.edu)  
+- 🌐 Website: (https://https://diresabatieneh.vercel.app/)  
+- 📧 Email: (daa3@williams.edu)  
 - 📷 Instagram: (https://instagram.com/mik_dier_213_)  
 - ✉️ Always open to collaboration on interesting projects and research!

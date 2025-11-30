@@ -6,9 +6,10 @@
 
 
 📫 Let’s Connect:
----------------------------------------------------------------------
+----------------------------------------------------------------------
 - 📧 Email:    | (daa3@williams.edu)                                  |
 - 💼 LinkedIn  | (https://www.linkedin.com/in/dires-a-abatieneh/)     |
 - 🌐 Website:  | (https://https://diresabatieneh.vercel.app/)         |
----------------------------------------------------------------------
-- ✉️ Always open to collaboration on interesting projects and research!
+- ✉️ Always open to collaboration on interesting projects and research|
+----------------------------------------------------------------------
+

@@ -3,7 +3,7 @@
 ⚡ My interests include coding, problem-solving, biking, workouts, technology, and applying algorithms to practical challenges.  
 🤝 I’m eager to collaborate on innovative projects with a focus on accessibility, entrepreneurship, & transformative technologies.  
 😅 Fun fact: My code runs on coffee, occasional late-night brainstorming, and the occasional miracle — sometimes it works😅😅!  
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 📫 Let’s Connect:
 ----------------------------------------------------------------------

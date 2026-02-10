@@ -15,7 +15,7 @@ I love building scalable software, designing elegant algorithms, and shipping im
 ## 📫 Let’s connect
 - Email: [daa3@williams.edu](mailto:daa3@williams.edu)  
 - LinkedIn: [Dires A. Abatieneh](https://www.linkedin.com/in/dires-a-abatieneh/)  
-- Website: https://diresabatieneh.netlify.app/  
+- Website: https://diresabatieneh.vercel.app/
 - Always open to collaboration — DM on LinkedIn or email me!
 
 ---

@@ -37,7 +37,6 @@
 ---
 
 ## 📈 GitHub stats
-<!-- Replace Dierzeethiopia in these URLs with your username if different -->
 ![Dires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dierzeethiopia&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dierzeethiopia&layout=compact&theme=tokyonight)
 

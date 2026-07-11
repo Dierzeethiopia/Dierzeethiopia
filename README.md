@@ -1,8 +1,7 @@
 # Hi — I'm Dires 👋
 
 
-**Aspiring Software Engineer** • Computer Science & Mathematics @ Williams College ('28)  
-I love building scalable software, designing elegant algorithms, and shipping impactful products. I enjoy problem-solving, biking, workouts, and applying algorithms to real-world problems.
+**Aspiring Software Engineer & AI Engineer** • Computer Science & Mathematics @ Williams College ('28)  
 
 - 👨‍💻 Softaware Engineering Intern at Slack, a Saleforce company (Summer 2026)
 - 🎓 Computer Science & Mathematics student at Williams College (Class of 2028)  

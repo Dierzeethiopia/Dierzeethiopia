@@ -3,8 +3,8 @@
 
 **Aspiring Software Engineer & AI Engineer** • Computer Science & Mathematics @ Williams College ('28)  
 
-- 👨‍💻 Softaware Engineering Intern at Slack, a Saleforce company (Summer 2026)
-- 🎓 Computer Science & Mathematics student at Williams College (Class of 2028)  
+- 👨‍💻 Softaware Engineering Intern at **Slack**, a Saleforce company (Summer 2026)
+- 👨‍💻 Softaware Engineering Intern at Guba Technologies (Summer 2025)
 - ⚡ Interests: algorithms, backend systems, accessibility, entrepreneurship, product design  
 - 🤝 Open to collaborating on innovative projects focused on accessibility and transformative tech  
 - 😅 Fun fact: My code runs on coffee, late-night brainstorming, and the occasional miracle!
@@ -15,7 +15,7 @@
 ## Let’s connect
 - Email: [daa3@williams.edu](mailto:daa3@williams.edu)  
 - LinkedIn: [Dires A. Abatieneh](https://www.linkedin.com/in/dires-a-abatieneh/)  
-- Website: https://diresabatieneh.vercel.app/
+- Website: [Dires's Websote](https://diresabatieneh.netlify.app/)
 - Always open to collaboration — DM on LinkedIn or email me!
 
 ---

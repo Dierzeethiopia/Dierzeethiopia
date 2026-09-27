@@ -3,7 +3,7 @@
 
 **Aspiring Software Engineer & AI Engineer** • Computer Science & Mathematics @ Williams College ('28)  
 
-- 👨‍💻 **Softaware Engineering Intern at *Slack*, a *Saleforce company* (Summer 2026)**
+- 👨‍💻 **Softaware Engineering Intern at *Slack(Saleforce* (Summer 2026)**
 - 👨‍💻 **Softaware Engineering Intern at Guba Technologies (Summer 2025)**
 - ⚡ Interests: algorithms, backend systems, accessibility, entrepreneurship, product design  
 - 🤝 Open to collaborating on innovative projects focused on accessibility and transformative tech  
